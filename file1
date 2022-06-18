@@ -1,3 +1,9 @@
 hello 
 edited from local repo
+<<<<<<< HEAD
 thrid edited from local repo
+=======
+third line from git hub repo
+>>>>>>> refs/remotes/origin/master
+
+change from local repo
